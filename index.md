@@ -3,6 +3,10 @@
 ### DSC 80: The Practice and Application of Data Science
 
 ### MATH 189: Exploratory Data Analysis and Inference
+[Study of Palindromes in Human Cytomegalovirus DNA](https://github.com/Leffania/MATH189-Assignment-3) <br>
+Brittney Cifuentes-Tello and Justin Nguyen
+
+This repository includes R code, output plots, and a Google Docs paper as part of a statistical study on base pair palindromes in human cytomegalovirus (HCMV) DNA. It is theorized that palindromes can signify origin points of DNA replication which, when located, opens the door to further research on how to better combat the virus.
 
 ### DSC 106: Introduction to Data Visualization
 [Visual Summary for Flights Within the U.S.](https://leffania.github.io/DSC106-Final/) <br>
