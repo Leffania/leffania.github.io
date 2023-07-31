@@ -25,11 +25,14 @@
       <div id="banner">
         <span id="logo"></span>
 
-        <ul>
-          <li><a href="{{ site.github.repository_url }}" class="button fork"><strong>CV</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a></li>
-        </ul>
+        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
 
+          <div class="cv">
+            <span>CV:</span>
+            <ul>
+              <li><a href="{{ site.github.zip_url }}" class="button">CV</a></li>
+            </ul>
+          </div>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
