@@ -1,4 +1,4 @@
-
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 # Projects
 
 ### DSC 80: The Practice and Application of Data Science
