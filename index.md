@@ -1,5 +1,4 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-# Projects
+## Projects
 
 ### DSC 80: The Practice and Application of Data Science
 [Analysis of NYPD Civilian Complaints](https://github.com/Leffania/DSC80-Project-5) <br>
