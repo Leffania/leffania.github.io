@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Projects
 
 ### DSC 80: The Practice and Application of Data Science
