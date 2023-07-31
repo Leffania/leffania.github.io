@@ -1,6 +1,13 @@
 # Projects
 
 ### DSC 80: The Practice and Application of Data Science
+[Analysis of NYPD Civilian Complaints](https://github.com/Leffania/DSC80-Project-5) <br>
+Justin Nguyen
+
+This repository includes Python code in a two-part study:
+
+1. Examine if the values for complainant gender were missing due to officer ethnicity or officer gender, or if their absence was attributed to random chance through statistical means.
+2. Build a machine learning model to predict officer ethnicity and find possible patterns in the data that make officer ethnicity particularly predictable.
 
 ### MATH 189: Exploratory Data Analysis and Inference
 [Study of Palindromes in Human Cytomegalovirus DNA](https://github.com/Leffania/MATH189-Assignment-3) <br>
