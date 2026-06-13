@@ -542,3 +542,10 @@ footer {
     width:auto;
   }
 }
+
+.button-container {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
