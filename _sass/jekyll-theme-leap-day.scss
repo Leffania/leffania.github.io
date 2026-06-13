@@ -544,8 +544,7 @@ footer {
 }
 
 .button-container {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin: 20px 0;
+  display: grid;
+  grid-template-columns: repeat(n, 1fr);
+  gap: 10px;
 }
