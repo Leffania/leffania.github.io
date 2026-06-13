@@ -542,9 +542,3 @@ footer {
     width:auto;
   }
 }
-
-.button-container {
-  display: grid;
-  grid-template-columns: repeat(n, 1fr);
-  gap: 50px;
-}
