@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Justin Nguyen
-permalink: /home
+permalink: /
 ---
 
 # About Me
