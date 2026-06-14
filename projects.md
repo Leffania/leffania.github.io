@@ -1,4 +1,6 @@
-<body></body>
+---
+layout: page
+---
 
 # Projects
 
