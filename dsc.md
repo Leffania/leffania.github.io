@@ -1,6 +1,6 @@
 ---
 layout: page-dsc
-title: Projects
+title: Data Science
 permalink: /dsc
 ---
 # Projects
