@@ -3,7 +3,6 @@ layout: page
 title: Justin Nguyen
 permalink: /
 ---
-
 Welcome to my personal website! Feel free to navigate using the buttons above.
 
 # About Me
