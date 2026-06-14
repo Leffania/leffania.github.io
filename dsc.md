@@ -6,7 +6,7 @@ permalink: /dsc
 # Projects
 
 ### DSC 80: The Practice and Application of Data Science
-[Analysis of NYPD Civilian Complaints](https://github.com/Leffania/DSC80-Project-5) <br>
+[Analysis of NYPD Civilian Complaints](https://github.com/Leffania/DSC80-Project-5); [Report (HTML)](https://leffania.github.io/downloads/nypd.html) <br>
 Justin Nguyen
 
 This repository includes Python code in a two-part study:
@@ -15,7 +15,7 @@ This repository includes Python code in a two-part study:
 2. Build a machine learning model to predict officer ethnicity and find possible patterns in the data that make officer ethnicity particularly predictable.
 
 ### MATH 189: Exploratory Data Analysis and Inference
-[Study of Palindromes in Human Cytomegalovirus DNA](https://github.com/Leffania/MATH189-Assignment-3) <br>
+[Study of Palindromes in Human Cytomegalovirus DNA](https://github.com/Leffania/MATH189-Assignment-3); [Report (PDF)](https://leffania.github.io/downloads/hcmv.pdf) <br>
 Brittney Cifuentes-Tello and Justin Nguyen
 
 This repository includes R code, output plots, and a Google Docs paper as part of a statistical study on base pair palindromes in human cytomegalovirus (HCMV) DNA. It is theorized that palindromes can signify origin points of DNA replication which, when located, opens the door to further research on how to better combat the virus.
@@ -27,7 +27,7 @@ Justin Nguyen and Garrick Su
 This repository includes HTML, CSS, and JavaScript code to query and plot a variety of data visualizations based on flights data collected within the U.S. The result is a webpage with colored and interactive plots showcasing interesting insights about the data (e.g., frequency of cancelled or delayed flights by state).
 
 ### DSC 167: Fairness and Algorithmic Decision-Making
-[An Analysis on Racial Discrimation in San Diego Police Stops](https://github.com/Leffania/DSC167-Paper-1) <br>
+[An Analysis on Racial Discrimation in San Diego Police Stops](https://github.com/Leffania/DSC167-Paper-1); [Report (PDF)](https://leffania.github.io/downloads/sdpd.pdf) <br>
 Justin Nguyen
 
 This repository includes both Python code and a LaTeX report as part of an interdisciplinary study (Data Science and the Social Sciences) treating police stops in San Diego as an algorithmic decision making system, evaluating whether or not it judges individuals of varying races fairly based on theoretical frameworks by political philosopher John Rawls.
