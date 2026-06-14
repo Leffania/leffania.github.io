@@ -2,7 +2,6 @@
 layout: page-dsc
 title: Projects
 permalink: /projects
-description: 
 ---
 
 ### DSC 80: The Practice and Application of Data Science
