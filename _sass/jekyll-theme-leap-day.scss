@@ -201,7 +201,8 @@ header {
   left:0;
   right:50%;
   height: 50px;
-  /* margin-right:-382px; Extend the banner to the edge by commenting this line out. */ 
+  /* margin-right:-382px; OLD */
+  margin-right:100%;
   position: fixed;
   top: 115px;
   background: #ffcc00;
