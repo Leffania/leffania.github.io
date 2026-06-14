@@ -1,5 +1,5 @@
 ---
-layout: page-dsc
+layout: page
 title: Data Science
 permalink: /dsc
 ---
